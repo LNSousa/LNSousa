@@ -1,16 +1,29 @@
-## Hi there, I'm Lucas - a Brazilian Software Engineer living in South Florida! 👋
+<img src="header.png"/>
 
-### I'm a developer with a passion for tech!
-- I love learning about everyting 🌎
-- Current 🥅 goal: Code as much as possible! 👨🏻‍💻
-- I'm currently fascinated by 💻 Artificial Intelligence and 💸 Fintech
-- I am a big 🐕 dog person
+## A Brazilian Software Engineer living in sunny South Florida! ☀️🌴
+[![Linkedin: lucnsousa](https://img.shields.io/badge/-lucnsousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucnsousa/)](https://www.linkedin.com/in/lucnsousa/)
+![GitHub followers](https://img.shields.io/github/followers/LNSousa?label=Follow&style=social)
 
-### Tech & Tools
-- LANGUAGES: HTML5, CSS, JavaScript (ES6, Node.js), Python, Java, TypeScript
-- FRAMEWORKS: Flask, React, Express, BootStrap, Django, Spring
-- DATABASES: MySQL, NoSQL (MongoDB), Mongoose
-- TOOLS: AJAX, PostMan, Spring Boot, Jakarta Standard Tag Library, JavaBeans, AWS, MySQL Workbench, GitHub, JSON,  REST,  API, Ubuntu
+
+### I'm a developer with a passion for tech! 💻
+
+
+```javascript
+const lucas = {
+    aboutMe: "A developer with a passion for tech who loves to learn about everything!",
+    currentInterests: ["Artificial Intelligence", "Fintech"],
+    whoIAm: ["Software Engineer", "Full Stack Developer"],
+    languages: ["Javascript", "Python", "Java"],
+    technologies: {
+        frontEnd: ["React", "jQuery", "Bootstrap"],
+        backEnd: ["Flask", "Express", "Django", "Spring", "Node"],
+        databases: ["MySQL", "NoSQL (MongoDB)", "Mongoose"],
+        devOps: ["AWS", "Docker"],
+        tools: ["AJAX", "JSON" "Spring Boot", "JSTL", "JavaBeans", "Ubuntu"]
+    },
+    architecture: ["MVC", "microservices", "Serverless"]
+}
+```
 
 ### Stats
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNSousa&show_icons=true&theme=radical&hide_rank=true)](https://github.com/LNSousa/github-readme-stats)
